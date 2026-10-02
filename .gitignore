@@ -1,0 +1,4 @@
+/target/
+/data/*.dat
+/.idea/
+*.iml
